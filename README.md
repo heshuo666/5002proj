@@ -1,2 +1,2 @@
 # Time Series Anomoly Detection
-A poject from Data Mining
+A poject from Data Mining.
